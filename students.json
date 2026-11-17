@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "student001",
+    "name": "Aarav Sharma",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student002",
+    "name": "Priya Verma",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student003",
+    "name": "Rohan Singh",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student004",
+    "name": "Meera Patel",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student005",
+    "name": "Kabir Khan",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student006",
+    "name": "Ananya Gupta",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student007",
+    "name": "Ishaan Reddy",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student008",
+    "name": "Diya Nair",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student009",
+    "name": "Arjun Joshi",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student010",
+    "name": "Sara Das",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student011",
+    "name": "Vivaan Sharma",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student012",
+    "name": "Aisha Verma",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student013",
+    "name": "Reyansh Singh",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student014",
+    "name": "Kavya Patel",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student015",
+    "name": "Aditya Khan",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student016",
+    "name": "Nisha Gupta",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student017",
+    "name": "Dev Reddy",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student018",
+    "name": "Ira Nair",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student019",
+    "name": "Krish Joshi",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student020",
+    "name": "Tara Das",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student021",
+    "name": "Aarav Verma",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student022",
+    "name": "Priya Singh",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student023",
+    "name": "Rohan Patel",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student024",
+    "name": "Meera Khan",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student025",
+    "name": "Kabir Gupta",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student026",
+    "name": "Ananya Reddy",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student027",
+    "name": "Ishaan Nair",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student028",
+    "name": "Diya Joshi",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student029",
+    "name": "Arjun Das",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student030",
+    "name": "Sara Sharma",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student031",
+    "name": "Vivaan Verma",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student032",
+    "name": "Aisha Singh",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student033",
+    "name": "Reyansh Patel",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student034",
+    "name": "Kavya Khan",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student035",
+    "name": "Aditya Gupta",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student036",
+    "name": "Nisha Reddy",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student037",
+    "name": "Dev Nair",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student038",
+    "name": "Ira Joshi",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student039",
+    "name": "Krish Das",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student040",
+    "name": "Tara Sharma",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student041",
+    "name": "Aarav Singh",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student042",
+    "name": "Priya Patel",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student043",
+    "name": "Rohan Khan",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student044",
+    "name": "Meera Gupta",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student045",
+    "name": "Kabir Reddy",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student046",
+    "name": "Ananya Nair",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student047",
+    "name": "Ishaan Joshi",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student048",
+    "name": "Diya Das",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student049",
+    "name": "Arjun Sharma",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student050",
+    "name": "Sara Verma",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student051",
+    "name": "Vivaan Singh",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student052",
+    "name": "Aisha Patel",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student053",
+    "name": "Reyansh Khan",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student054",
+    "name": "Kavya Gupta",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student055",
+    "name": "Aditya Reddy",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student056",
+    "name": "Nisha Nair",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student057",
+    "name": "Dev Joshi",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student058",
+    "name": "Ira Das",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student059",
+    "name": "Krish Sharma",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student060",
+    "name": "Tara Verma",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student061",
+    "name": "Aarav Patel",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student062",
+    "name": "Priya Khan",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student063",
+    "name": "Rohan Gupta",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student064",
+    "name": "Meera Reddy",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student065",
+    "name": "Kabir Nair",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student066",
+    "name": "Ananya Joshi",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student067",
+    "name": "Ishaan Das",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student068",
+    "name": "Diya Sharma",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student069",
+    "name": "Arjun Verma",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student070",
+    "name": "Sara Singh",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student071",
+    "name": "Vivaan Patel",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student072",
+    "name": "Aisha Khan",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student073",
+    "name": "Reyansh Gupta",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student074",
+    "name": "Kavya Reddy",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student075",
+    "name": "Aditya Nair",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student076",
+    "name": "Nisha Joshi",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student077",
+    "name": "Dev Das",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student078",
+    "name": "Ira Sharma",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student079",
+    "name": "Krish Verma",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student080",
+    "name": "Tara Singh",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student081",
+    "name": "Aarav Khan",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student082",
+    "name": "Priya Gupta",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student083",
+    "name": "Rohan Reddy",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student084",
+    "name": "Meera Nair",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student085",
+    "name": "Kabir Joshi",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student086",
+    "name": "Ananya Das",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student087",
+    "name": "Ishaan Sharma",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student088",
+    "name": "Diya Verma",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student089",
+    "name": "Arjun Singh",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student090",
+    "name": "Sara Patel",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student091",
+    "name": "Vivaan Khan",
+    "domain": "Web Development",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student092",
+    "name": "Aisha Gupta",
+    "domain": "Artificial Intelligence",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student093",
+    "name": "Reyansh Reddy",
+    "domain": "Data Science",
+    "skills": [
+      "Python",
+      "SQL",
+      "Excel"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student094",
+    "name": "Kavya Nair",
+    "domain": "Cybersecurity",
+    "skills": [
+      "Linux",
+      "Networking",
+      "Security Basics"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student095",
+    "name": "Aditya Joshi",
+    "domain": "App Development",
+    "skills": [
+      "Java",
+      "Android",
+      "Kotlin"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  },
+  {
+    "id": "student096",
+    "name": "Nisha Das",
+    "domain": "UI/UX Design",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "Prototyping"
+    ],
+    "bio": "Interested in learning by building practical projects."
+  },
+  {
+    "id": "student097",
+    "name": "Dev Sharma",
+    "domain": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Linux",
+      "Docker"
+    ],
+    "bio": "Enjoys collaborating with other students and sharing ideas."
+  },
+  {
+    "id": "student098",
+    "name": "Ira Verma",
+    "domain": "Game Development",
+    "skills": [
+      "C++",
+      "Unity",
+      "Game Design"
+    ],
+    "bio": "Looking to improve skills through teamwork and practice."
+  },
+  {
+    "id": "student099",
+    "name": "Krish Singh",
+    "domain": "Networking",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Troubleshooting"
+    ],
+    "bio": "Likes exploring new tools and working on creative ideas."
+  },
+  {
+    "id": "student100",
+    "name": "Tara Patel",
+    "domain": "Robotics",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Electronics"
+    ],
+    "bio": "Interested in beginner-friendly projects and competitions."
+  }
+]

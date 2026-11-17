@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkillSync - Student Team Finder</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header class="topbar">
+        <a class="brand" href="/">Skill<span>Sync</span></a>
+        <p>Find teammates. Share skills. Build together.</p>
+        <div class="top-actions">
+            <a class="nav-link" href="/">Home</a>
+            <a class="nav-link" href="/matches">Find Matches</a>
+            <a class="nav-link" href="/students">Students</a>
+            <a class="nav-link" href="/opportunities">Opportunities</a>
+            <details class="profile-menu">
+                <summary title="Profile menu" aria-label="Profile menu"><span class="profile-icon">👤</span></summary>
+                <div class="dropdown">
+                    <a href="/profile">Edit Profile</a>
+                    <a href="/opportunities?filter=saved">Saved Opportunities</a>
+                </div>
+            </details>
+        </div>
+    </header>
+
+    <main>
+        <section class="welcome">
+            <div>
+                <p class="eyebrow">{{EYEBROW}}</p>
+                <h1>{{HEADING}}</h1>
+                <p class="intro">{{INTRO}}</p>
+            </div>
+            <div class="welcome-mark">SS</div>
+        </section>
+
+        {{CONTENT}}
+    </main>
+
+    <footer>SkillSync · Student Team Finder Project</footer>
+</body>
+</html>

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "opp001",
+    "title": "Student Hackathon",
+    "type": "Hackathon",
+    "description": "Build a small project with a team and present your idea.",
+    "link": "https://devpost.com/hackathons"
+  },
+  {
+    "id": "opp002",
+    "title": "Coding Challenge",
+    "type": "Competition",
+    "description": "Practise problem-solving and programming skills.",
+    "link": "https://www.codechef.com/practice"
+  },
+  {
+    "id": "opp003",
+    "title": "Web Development Workshop",
+    "type": "Workshop",
+    "description": "Learn the basics of building and styling websites.",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn"
+  },
+  {
+    "id": "opp004",
+    "title": "Student Scholarship",
+    "type": "Scholarship",
+    "description": "Explore scholarship opportunities for students.",
+    "link": "https://scholarships.gov.in/"
+  },
+  {
+    "id": "opp005",
+    "title": "Python Beginner Meetup",
+    "type": "Community",
+    "description": "Meet other learners and work through Python exercises.",
+    "link": "https://www.meetup.com/topics/python/"
+  },
+  {
+    "id": "opp006",
+    "title": "AI Mini Project",
+    "type": "Project",
+    "description": "Create a beginner-friendly project using AI concepts.",
+    "link": "https://www.kaggle.com/learn"
+  },
+  {
+    "id": "opp007",
+    "title": "UI Design Sprint",
+    "type": "Design",
+    "description": "Work on a simple app interface and receive feedback.",
+    "link": "https://www.figma.com/resource-library/"
+  },
+  {
+    "id": "opp008",
+    "title": "Open Source Starter Task",
+    "type": "Open Source",
+    "description": "Try contributing a small improvement to a community project.",
+    "link": "https://goodfirstissue.dev/"
+  },
+  {
+    "id": "opp009",
+    "title": "Data Analysis Challenge",
+    "type": "Competition",
+    "description": "Explore a sample dataset and share useful findings.",
+    "link": "https://www.kaggle.com/competitions"
+  },
+  {
+    "id": "opp010",
+    "title": "Cyber Safety Awareness Project",
+    "type": "Project",
+    "description": "Create an educational project about safe online practices.",
+    "link": "https://staysafeonline.org/"
+  },
+  {
+    "id": "opp011",
+    "title": "Mobile App Idea Contest",
+    "type": "Competition",
+    "description": "Plan and present an idea for a useful student app.",
+    "link": "https://devpost.com/hackathons"
+  },
+  {
+    "id": "opp012",
+    "title": "Cloud Computing Introduction",
+    "type": "Learning",
+    "description": "Understand basic cloud concepts and services.",
+    "link": "https://aws.amazon.com/getting-started/"
+  },
+  {
+    "id": "opp013",
+    "title": "Robotics Club Activity",
+    "type": "Club",
+    "description": "Explore simple robotics concepts with other students.",
+    "link": "https://www.firstinspires.org/"
+  },
+  {
+    "id": "opp014",
+    "title": "Game Design Jam",
+    "type": "Hackathon",
+    "description": "Plan a small game concept and create a prototype.",
+    "link": "https://itch.io/jams"
+  },
+  {
+    "id": "opp015",
+    "title": "Git and GitHub Workshop",
+    "type": "Workshop",
+    "description": "Practise version control and collaboration.",
+    "link": "https://skills.github.com/"
+  },
+  {
+    "id": "opp016",
+    "title": "College Tech Newsletter",
+    "type": "Team Project",
+    "description": "Work with a team to prepare a student technology newsletter.",
+    "link": "https://www.canva.com/"
+  },
+  {
+    "id": "opp017",
+    "title": "Beginner Linux Session",
+    "type": "Learning",
+    "description": "Learn common Linux commands and terminal basics.",
+    "link": "https://linuxjourney.com/"
+  },
+  {
+    "id": "opp018",
+    "title": "Portfolio Building Week",
+    "type": "Workshop",
+    "description": "Create or improve a simple personal project portfolio.",
+    "link": "https://pages.github.com/"
+  },
+  {
+    "id": "opp019",
+    "title": "Campus Innovation Idea",
+    "type": "Project",
+    "description": "Share an idea that could help students on campus.",
+    "link": "https://www.google.com/search?q=Campus+Innovation+Idea"
+  },
+  {
+    "id": "opp020",
+    "title": "Peer Learning Group",
+    "type": "Community",
+    "description": "Join a small group to learn and practise together.",
+    "link": "https://www.google.com/search?q=Peer+Learning+Group"
+  }
+]
